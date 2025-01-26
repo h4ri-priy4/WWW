@@ -10,29 +10,23 @@
 - Member 2: Pavithra Satheesan - College of engineering thalassery
 
 ### Hosted Project LinkS
-[mention your project hosted project link here]
+https://h4ri-priy4.github.io/www/
 
 ### Project Description
-[2-3 lines about what your project does]
+an online website for swap skill
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Less social interaction and less skill development
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Making the users interact with others and helping them to develop their skills
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html,css,javascript
+- VScode
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -83,16 +77,15 @@ Explain the final build
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1VameTvnF_p1C8PP6gQ2D-Hd5h1lEEAKY/view?usp=drivesdk
 Explain what the video demonstrates
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Haripriya: web developed
+- Pavithra: web developed
 
 ---
 Made with ❤️ at TinkerHub
